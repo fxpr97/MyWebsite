@@ -462,7 +462,7 @@
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   font-size: 2.5rem;
 }
 
@@ -541,4 +541,9 @@
   .services_wrapper {
     grid-template-columns: 1fr;
   }
+}
+
+/* Sign Up Section */
+#sign-up {
+  padding: 5rem 0;
 }
